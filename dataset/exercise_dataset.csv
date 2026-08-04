@@ -1,0 +1,16 @@
+Age,Gender,BMI,Goal,ActivityLevel,Recommendation
+18,Male,20,Weight Loss,Low,Walking
+22,Female,22,Weight Loss,Medium,Running
+25,Male,24,Muscle Gain,Medium,Strength Training
+30,Female,29,Weight Loss,Low,Cycling
+35,Male,27,Muscle Gain,High,Weight Lifting
+40,Female,23,Fitness,Medium,Swimming
+45,Male,31,Weight Loss,Low,Yoga
+50,Female,28,Fitness,Low,Brisk Walking
+28,Male,22,Muscle Gain,High,Push Ups
+21,Female,19,Fitness,Medium,Jogging
+26,Male,26,Weight Loss,High,HIIT
+32,Female,24,Fitness,High,Zumba
+29,Male,25,Muscle Gain,Medium,Pull Ups
+38,Female,30,Weight Loss,Low,Walking
+24,Female,21,Fitness,Medium,Cycling
