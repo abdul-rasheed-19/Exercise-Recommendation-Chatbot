@@ -1,3 +1,5 @@
+<img width="1917" height="561" alt="Screenshot 2026-08-04 081407" src="https://github.com/user-attachments/assets/cf78c39d-f162-48f1-ab41-d13f8291541c" />
+<img width="1917" height="803" alt="Screenshot 2026-08-04 081423" src="https://github.com/user-attachments/assets/cd7be403-5c24-4d4b-ac47-c3c7689fa73e" />
 # 🏋️ Exercise Recommendation Chatbot
 
 An intelligent **Machine Learning-powered Exercise Recommendation Chatbot** built with **Python**, **Scikit-learn**, and **Streamlit**. The chatbot interacts with users in a conversational way, collects fitness information, calculates BMI, and recommends a suitable exercise based on a trained Decision Tree model.
