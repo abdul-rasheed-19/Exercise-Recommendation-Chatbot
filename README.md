@@ -242,6 +242,8 @@ Through this project, I learned:
 
 🔗 GitHub:
 https://github.com/abdul-rasheed-19
+🔗LinkedIn:
+https://www.linkedin.com/in/abdul-rasheed-b55217335/
 
 ---
 
